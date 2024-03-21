@@ -1,0 +1,28 @@
+.display{
+    background-color: rgb(238, 155, 155);
+    height: 5rem;
+    width: 20rem;
+
+}
+select, input, button{
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+select{
+    background-color: blueviolet;
+}
+input{
+    background-color: cornflowerblue;
+}
+button{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    font-weight:600;
+}
+.ins{
+    display: flex;
+    gap: 10px;
+}
